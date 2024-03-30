@@ -1,0 +1,9 @@
+#Install the latest version of Python3
+sudo apt-get install python3
+
+#install the pip module which is required to install and manage all the packages of Python3
+sudo apt install python3-pip
+
+
+#install numba
+sudo pip3 install numba 
