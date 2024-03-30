@@ -2,8 +2,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import numba
-from numba import njit
 from scipy.ndimage import convolve, generate_binary_structure
 
 #Red cuadrada 50x50
